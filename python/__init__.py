@@ -8,11 +8,4 @@
 # agreement to the Shotgun Pipeline Toolkit Source Code License. All rights 
 # not expressly granted therein are reserved by Shotgun Software Inc.
 
-from . import shotgun_model
-from . import shotgun_data
-from . import settings
-from . import shotgun_globals
-from . import task_manager
-from . import utils
-from . import external_config
-
+from . import shotgun
